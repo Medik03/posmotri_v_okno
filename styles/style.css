@@ -79,7 +79,7 @@ ol {
 
 .search-form__fieldset-title {
   color: #fff;
-  font-family: Fira/ Sans Condensed;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -279,7 +279,7 @@ input[type="checkbox"]:checked + span {
 }
 
 .content__card-link:focus {
-  oitline: none;
+  outline: none;
 }
 
 .content__card-link:focus-visible {
